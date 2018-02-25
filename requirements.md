@@ -23,7 +23,7 @@
 
 Система автоматизирует процесс поиска и покупки пользователем авиабилетов.
 
-![alt text](example.com/logo.png)
+![alt text](https://github.com/ctel-prj-mng/3-tz-200218-Kseniaveh/blob/master/table_TZ.jpg)
 
 ## Требования к программному объекту
 
